@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Денис Морев](https://up.htmlacademy.ru/javascript-individual/1/user/1451793).
-* Наставник: `Неизвестно`.
+* Наставник: [Геннадий Максимов](https://htmlacademy.ru/profile/gennadiy)
 
 ---
 
